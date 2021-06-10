@@ -1,0 +1,11 @@
+.container
+{
+    display:flex;
+    justify-content: center;
+    top:300px;
+}
+.container>.h1
+{
+    display: flex;
+    top:500px;
+}
